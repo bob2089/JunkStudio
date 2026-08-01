@@ -12,7 +12,6 @@ I used AI to help me generate and assemble the code so I could actually make thi
 
 JunkStudio is a custom archive browser and asset extractor. While built with *PixelJunk Shooter* in mind, **it works with any PixelJunk game that uses the `.pkdwin` archive format.**
 
-![JunkStudio UI](image_60bce6.png)
 
 * **Browse & Search:** Instantly search through archive contents by name, hash, type, or offset.
 * **Built-in Previews:** View textures (including `.dds`), preview text scripts, and listen to audio clips directly inside the tool.
